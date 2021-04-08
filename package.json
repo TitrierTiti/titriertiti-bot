@@ -1,0 +1,15 @@
+{
+  "name": "titriertiti",
+  "version": "2.0.2",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TitrierTiti Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ytdl-core": "^4.5.0"
+  }
+}
